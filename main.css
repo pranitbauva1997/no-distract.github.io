@@ -1,0 +1,15 @@
+body {
+    background-color: #A3B86C;
+    color: #373D3F;
+    position: absolute;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-size: 40px;
+    font-family: 'Gruppo';
+}
